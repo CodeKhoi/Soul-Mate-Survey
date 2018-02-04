@@ -1,0 +1,82 @@
+body, html {
+        background: url('img/back.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .jumbotron {
+        text-align: center;
+        margin-top: 50px;
+        background: rgba(0, 0, 0, 0.5) !important;
+    }
+
+    .api a {
+        text-decoration: none;
+        color: #C2CAD0;
+    }
+
+    h1 {
+        text-align: center;
+        font-family: 'Rock Salt', cursive;
+        color: #C2CAD0 !important;
+        font-size: 40px !important;
+    }
+
+    .your {
+        font-size: 60px !important;
+    }
+
+    .your span {
+        color: #E7717D !important;
+    }
+
+    .mate {
+        color: #E7717D !important;
+        font-size: 80px !important; 
+    }
+
+    .btn {
+        background-color: #AFD275 !important;
+        color: #7E685A;
+        margin-top: 10px;
+    }
+
+    .headerOne {
+        color: #E7717D !important;
+        font-size: 60px !important;
+        margin-bottom: 50px;
+    }
+
+    .headerTwo {
+        color: #AFD275 !important;
+        font-size: 50px !important;
+    }
+
+    h3 {
+        color: #fff;
+    }
+
+    .inputPadding {
+        margin-top: 50px;
+        padding-bottom: 25px;
+    }
+
+    #submit {
+        margin-top: 30px !important;
+        background-color: #E7717D !important;
+        color: #fff;
+    }
+
+    .modal-header {
+        background-color: #E7717D;
+        text-align: center !important;
+        color: #fff !important;
+    }
+
+    .modal-body {
+    background-color: ;
+    text-align: center !important;
+    }
+
